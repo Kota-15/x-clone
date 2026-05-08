@@ -1,0 +1,16 @@
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 100vh;
+  border-left: 1px solid #2f3336;
+  border-right: 1px solid #2f3336;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  color: #1d9bf0;
+  font-size: 18px;
+}
